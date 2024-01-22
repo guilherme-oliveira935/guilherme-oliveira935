@@ -1,5 +1,5 @@
 ### Olá 👋
-Meu nome é Guilherme e tenho 19 anos. Comecei a estudar programação no final de 2022. 
+Meu nome é Guilherme e tenho 18 anos. Comecei a estudar programação no final de 2022. 
 Me interesso pela área de ciêcia de dados e em desenvolver softwares em python.
 
 - 🎓 **Técnico** em Desenvolvimento de Sistemas pela Etec
